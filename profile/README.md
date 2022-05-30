@@ -4,7 +4,7 @@ We are mapmakers, providing geolocation technology for drivers, carmakers, enter
 
 ## Participating in the community
 
-We aim to create a welcoming and inclusive community. Please note that TomTom's open source projects are governed by our [code of conduct](https://github.com/twitter/.github/blob/main/code-of-conduct.md).
+We aim to create a welcoming and inclusive community. Please note that TomTom's open source projects are governed by our [code of conduct](https://github.com/tomtom-international/.github/blob/main/code-of-conduct.md).
 
 ## Get in touch!
 
