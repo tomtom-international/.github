@@ -1,6 +1,6 @@
 ![A 3D computer modeled map on a white background visualising traffic data ](https://raw.githubusercontent.com/tomtom-international/.github/main/profile/tomtom-banner.jpg)
 
-We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers. 125+ million drivers have been supplied with our tech, powered by open source, made by a team of TomTom'ers around the globe.
+We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers. 125+ million drivers have been supplied with our tech, powered by open source, made by TomTom'ers around the globe.
 
 ## Participating in the community
 
