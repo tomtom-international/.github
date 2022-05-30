@@ -8,7 +8,7 @@ We aim to create a welcoming and inclusive community. Please note that TomTom's 
 
 ## Get in touch!
 
-Learn more about what we're doing in open source by writing an email to [opensource@tomtom.com](mailto:opensource@tomtom.com) We are hard at work to launch our dedicated open source website soon.
+Learn more about what we're doing in open source by writing an email to [opensource@tomtom.com](mailto:opensource@tomtom.com) We are hard at work to launch our dedicated open source website.
 
 If you want to learn more about using TomTom's API's and SDK's check out our [developer portal](https://developer.tomtom.com/), browse [code examples here](https://github.com/orgs/tomtom-international/teams/developer-relations/repositories), [check our developer blog](https://developer.tomtom.com/blog) or write our Developer Relation team at [developerrelations@tomtom.com](mailto:developerrelations@tomtom.com)
 
