@@ -14,4 +14,4 @@ If you want to learn more about using TomTom's API's and SDK's check out our [de
 
 Interested in a career at TomTom? Check out our opportunities on [TomTom Careers](https://www.tomtom.com/careers/)!
 
-👋 [@TomTom](https://twitter.com/TomTom)
+👋 [@TomTomDevs](https://twitter.com/TomTomDevs)
