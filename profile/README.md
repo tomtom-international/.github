@@ -12,6 +12,6 @@ Learn more about what we're doing in open source by writing an email to [opensou
 
 If you want to learn more about using TomTom's API's and SDK's check out our [developer portal](https://developer.tomtom.com/), browse [code examples](https://github.com/orgs/tomtom-international/teams/developer-relations/repositories), [check our developer blog](https://developer.tomtom.com/blog) or write our Developer Relations team at [developerrelations@tomtom.com](mailto:developerrelations@tomtom.com)
 
-Interested in a career at TomTom? Check out our opportunities on [TomTom Careers](https://www.tomtom.com/careers/)!
+Interested in a career at TomTom? Check out our open positions at [TomTom Careers](https://www.tomtom.com/careers/)!
 
 👋 [@TomTomDevs](https://twitter.com/TomTomDevs)
