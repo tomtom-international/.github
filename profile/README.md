@@ -4,9 +4,6 @@ We are mapmakers, providing geolocation technology for drivers, carmakers, enter
 
 Visit our [showcase site](https://tomtom-international.github.io/) for a selection of hand-picked open source projects by TomTom.
 
-> **⚠ IMPORTANT NOTICE FOR OUTSIDE COLLABORATORS 2FA IS REQUIRED.**  
-> 2FA is required on the TomTom-International organization. If you have lost access to this organization and need access, write an email to opensource@tomtom.com with your GitHub account name and the name of Engineering contact within TomTom (normally the name of one of the MAINTAINERS of the repo) to get your account reinstated.
-
 ## Participating in the community
 
 We aim to create a welcoming and inclusive community. Please note that TomTom's open source projects are governed by our [code of conduct](https://github.com/tomtom-international/.github/blob/main/code-of-conduct.md).
