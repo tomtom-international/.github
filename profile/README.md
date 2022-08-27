@@ -2,7 +2,9 @@
 
 We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers. 125+ million drivers have been supplied with our tech, powered by open source, made by TomTom'ers around the globe.
 
-Visit our [showcase site](https://opensource.tomtom.com) for a selection of hand-picked open source projects by TomTom.
+Visit our [open source showcase site](https://opensource.tomtom.com) for a selection of hand-picked open source projects by TomTom.
+
+Source code and modifications for some of our older products are published on https://www.tomtom.com/opensource
 
 ## Participating in the community
 
