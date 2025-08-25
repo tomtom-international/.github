@@ -69,6 +69,16 @@ rules:
         globsAny:
         - README*
         nocase: true
+  
+  security-file-not-present:
+    level: error
+    rule:
+      type: file-type-exclusion
+      options:
+        globsAny:
+        - SECURITY*
+        nocase: true
+  
   contributing-file-exists:
     level: error
     rule:
