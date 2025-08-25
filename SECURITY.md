@@ -31,7 +31,7 @@ Security updates will be released as part of our regular release cycle or as eme
 
 ---
 
-For general security questions or non-vulnerability related inquiries, please contact us through our official support channels.
+For general security questions or non-vulnerability related inquiries, please send us an email at [security@tomtom.com](mailto:security@tomtom.com).
 
 ## Vulnerability Disclosure Program
 
