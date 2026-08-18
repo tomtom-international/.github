@@ -1,21 +1,23 @@
-![A 3D computer modeled map on a white background visualising traffic data ](https://raw.githubusercontent.com/tomtom-international/.github/main/profile/tomtom-banner.jpg)
+## Location intelligence to build intelligent tech. 
 
-We are mapmakers, providing geolocation technology for drivers, carmakers, enterprises and developers. 125+ million drivers have been supplied with our tech, powered by open source, made by TomTom'ers around the globe.
+TomTom transforms billions of real-world movements and data points into a location intelligence infrastructure for people, businesses and AI systems operating in the physical world. Built on our fresh and accurate data, we create a machine-readable, AI-ready view of the world that gives applications, models and autonomous systems the context to understand their surroundings and make confident decisions that are grounded in reality. 
 
-Visit our [open source showcase site](https://opensource.tomtom.com) for a selection of hand-picked open source projects by TomTom.
+**Built for builders, our APIs, SDKs, MCP servers and agent-ready tools** help developers integrate real-time maps, traffic and location intelligence into AI agents, machine learning workflows, geospatial analytics and location-aware applications. From mobility and logistics to insurance, automotive and the public sector, our data and developer platform help you bring location intelligence into production faster, build smarter solutions and be ready for what’s next.
 
-Source code and modifications for some of our older products are published on https://www.tomtom.com/opensource
+## Start building in minutes
 
-## Participating in the community
+📚 Find your product in the [Docs](https://docs.tomtom.com/) portal 
 
-We aim to create a welcoming and inclusive community. Please note that TomTom's open source projects are governed by our [code of conduct](https://github.com/tomtom-international/.github/blob/main/code-of-conduct.md).
+🔎 Check out demos at [WeDevelop.tomtom.com](https://wedevelop.tomtom.com/)
 
-## Get in touch!
+🔑 Get a free API key at [My.TomTom.com](https://my.tomtom.com/)
 
-Learn more about what we're doing in open source by writing an email to [opensource@tomtom.com](mailto:opensource@tomtom.com)
+🧪 Try any API without writing code in the [API Explorer](https://docs.tomtom.com/api-explorer-index/documentation/product-information/introduction)
 
-If you want to learn more about using TomTom's API's and SDK's check out our [developer portal](https://developer.tomtom.com/), browse [code examples](https://github.com/orgs/tomtom-international/repositories) or [check our developer blog](https://developer.tomtom.com/blog)
+## Contribute
 
-Interested in a career at TomTom? Check out our open positions at [TomTom Careers](https://www.tomtom.com/careers/)!
+We'd love to see your pull requests and issues — all we ask is that you follow our [code of conduct](https://github.com/tomtom-international/.github/blob/main/code-of-conduct.md). 
 
-👋 [@TomTomDevs](https://twitter.com/TomTomDevs)
+Found a security issue? Report it through [responsible disclosure](https://www.tomtom.com/responsible-disclosure/).
+
+Want to help engineer the first real-time map? [We're hiring](https://www.tomtom.com/careers/).
