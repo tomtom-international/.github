@@ -6,9 +6,7 @@ TomTom transforms billions of real-world movements and data points into a locati
 
 ### Start building in minutes
 
-📚 Find your product in the [Docs](https://docs.tomtom.com/) portal 
-
-🔎 Check out demos at [WeDevelop.tomtom.com](https://wedevelop.tomtom.com/)
+📚 Find your product in the [Docs](https://docs.tomtom.com/) portal
 
 🔑 Get a free API key at [My.TomTom.com](https://my.tomtom.com/)
 
